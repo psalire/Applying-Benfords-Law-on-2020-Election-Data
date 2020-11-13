@@ -38,7 +38,7 @@ Similarly, for datasets with decently large numbers the expected distribution of
 
 Benford's law holds true overwhelmingly in naturally occurring datasets. [This blog](https://www.r-bloggers.com/2020/08/benfords-law-applying-to-existing-data/) tested Benford's law on various datasets including the US census, an image of a pizza, and music and found nearly perfect conformity to Benford's law on all tests.
 
-Using this knowledge, Benford's law can be used to find anomalies in data that may reflect outside interference or tampering of the data. A typical person may not aware of this law nor humans' natural incapability to generate true random numbers, so when tampering with otherwise "naturally" occurring data and trying to pass it off as authentic anomalies are created that are uncovered by tests like the Benford's law test or Last Digits test.
+Using this knowledge, Benford's law can be used to find anomalies in data that may reflect outside interference or tampering of the data. A typical person may not aware of this law nor humans' natural incapability to generate true random numbers or may try to generate a uniform distribution where Benford's law should apply, so when tampering with otherwise "naturally" occurring data and trying to pass it off as authentic anomalies are created that are uncovered by tests like the Benford's law test or Last Digits test.
 
 ### Datasets
 
