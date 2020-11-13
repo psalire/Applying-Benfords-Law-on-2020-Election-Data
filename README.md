@@ -163,7 +163,9 @@ Plotting this at the state level didn't seem sufficient due to small sample size
 
 ### Conclusion
 
-With large sample sizes, specifically when aggregating all vote counts of all 4,577 counties that reported data in the US, both Benford's law and the Last Digits test held true. It's only when going down a level into individual states when it got interesting and data started to deviate.
+Benford's law and the Last Digits test are used commonly in accounting, auditing, and finance to screen for fraud. Significant deviations from the expected distribution of Benford's law or a non-uniform distribution of the Last Digits may indicate tampering or fraud. However, its use in elections is largely disputed.
+
+In this project, with large sample sizes, specifically when aggregating all vote counts of all 4,577 counties that reported data in the US, both Benford's law and the Last Digits test all held true. It's only when going down a level into individual states when it got interesting and data started to deviate which may or may not indicate tampering or fraud.
 
 This was my first time writing code that revolved entirely around pandas and I'm very pleased with how powerful and easy it is to use. I'm looking forward to using pandas more in the future.
 
