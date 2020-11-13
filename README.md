@@ -10,7 +10,7 @@ Benford's law is used reputably in accounting, auditing, and finance as a quick,
 
 The methods used in this repo were inspired by Beber & Scacco's "What the Numbers Say: A Digit-Based Test for Election Fraud" (2012) and the Association of Certified Fraud Examiners's (ACFE) instructive document "Using Benford's Law to Detect Fraud" (2018).
 
-The Python script's plotting of Benford's law and Last Digits test on 2020 voter data saw in a few states deviations that indicate potential anomalies (fraud) affecting both parties - possibly useful for either side for cherry picking or those seeking to satisfy their confirmation bias. Overall though, a naive interpretation of the results indicate either that the entire election is fraudulent or nothing at all.
+The Python script's plotting of Benford's law and Last Digits test on 2020 voter data saw in a few states deviations that indicate potential anomalies (fraud) affecting both parties. Overall though, a naive interpretation of the results indicate either that the entire election is fraudulent or nothing at all.
 
 ### Background
 
