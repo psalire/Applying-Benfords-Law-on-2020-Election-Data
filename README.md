@@ -139,7 +139,7 @@ Here is a look at Pennsylvania's mail ballots:
 
 1st Digit distribution -
 
-![PA Jorgensen Mail Ballots](Pennsylvania-Election/Presidential-Plots/1st-Digit-Test/PA%202020%20Presidential%20Election%20(All%20Votes)%20-%20JORGENSEN%20Vote%20Count%20-%2077%2C861%2C%20Size%20-%2067.jpg)
+![PA Jorgensen Mail Ballots](Pennsylvania-Election/Presidential-Plots/1st-Digit-Test/PA%202020%20Presidential%20Election%20(Mail%20Ballots)%20-%20JORGENSEN%20Vote%20Count%20-%2024%2C317%2C%20Size%20-%2067.jpg)
 ![PA Trump Mail Ballots](Pennsylvania-Election/Presidential-Plots/1st-Digit-Test/PA%202020%20Presidential%20Election%20(Mail%20Ballots)%20-%20TRUMP%20Vote%20Count%20-%20586%2C481%2C%20Size%20-%2067.jpg)
 ![PA Biden Mail Ballots](Pennsylvania-Election/Presidential-Plots/1st-Digit-Test/PA%202020%20Presidential%20Election%20(Mail%20Ballots)%20-%20BIDEN%20Vote%20Count%20-%201%2C959%2C220%2C%20Size%20-%2067.jpg)
 
