@@ -71,7 +71,7 @@ First, Texas:
 ![Trump TX](1st-Digit-BL-Test/State-Counts-by-county-jpgs/TX%202020%20Election%20Trump%20by%20County%2C%20%20Vote%20Count%20-%205%2C865%2C913%2C%20Size%20-%20254.jpg)
 ![Biden TX](1st-Digit-BL-Test/State-Counts-by-county-jpgs/TX%202020%20Election%20Biden%20by%20County%2C%20%20Vote%20Count%20-%205%2C218%2C631%2C%20Size%20-%20254.jpg)
 
-Texas vote counts for all parties follows Bendford's law's distribution nicely.
+Texas vote counts for all parties follow Bendford's law's expected distribution nicely.
 
 Now Pennsylvania, an important swing state -
 
@@ -110,7 +110,7 @@ Looking at Pennsylvania again -
 ![Trump PA 2BL](2nd-Digit-BL-Test/State-Counts-by-county-jpgs/PA%202020%20Election%20Trump%20by%20County%2C%20%20Vote%20Count%20-%203%2C331%2C957%2C%20Size%20-%2067.jpg)
 ![Jorgensen PA 2BL](2nd-Digit-BL-Test/State-Counts-by-county-jpgs/PA%202020%20Election%20Jorgensen%20by%20County%2C%20%20Vote%20Count%20-%2078%2C056%2C%20Size%20-%2067.jpg)
 
-The plots of the second digit seem to reflect small sample sizes more than anything else.
+The plots of the second digit are noisy and probably reflect small sample sizes more than anything else.
 
 Plots for all states are viewable in the other directories.
 
@@ -133,7 +133,7 @@ Votes in Georgia for Constitutional Amendment #1 and #2 also follow Benford's la
 ![GA Constitutional Amendment #1 NO 1BL](Georgia-Election/Non-presidential-Plots/1st-Digit-Test/GA%20Constitutional%20Amendment%20%231%20-%20NO%20\(By%20County\)%20Vote%20Count%20-%20867%2C772%2C%20Size%20-%20573.jpg)
 ![GA Constitutional Amendment #1 YES 1BL](Georgia-Election/Non-presidential-Plots/1st-Digit-Test/GA%20Constitutional%20Amendment%20%231%20-%20YES%20\(By%20County\)%20Vote%20Count%20-%203%2C855%2C468%2C%20Size%20-%20594.jpg)
 ![GA Constitutional Amendment #2 NO 1BL](Georgia-Election/Non-presidential-Plots/1st-Digit-Test/GA%20Constitutional%20Amendment%20%232%20-%20NO%20\(By%20County\)%20Vote%20Count%20-%201%2C195%2C473%2C%20Size%20-%20577.jpg)
-![GA Constitutional Amendment #2 YES 1BL](Georgia-Election/Non-presidential-Plots/1st-Digit-Test/GA%20Constitutional%20Amendment%20%231%20-%20YES%20\(By%20County\)%20Vote%20Count%20-%203%2C855%2C468%2C%20Size%20-%20594.jpg)
+![GA Constitutional Amendment #2 YES 1BL](Georgia-Election/Non-presidential-Plots/GA%20Constitutional%20Amendment%20%232%20-%20YES%20(By%20County)%20Vote%20Count%20-%203%2C484%2C783%2C%20Size%20-%20593.jpg)%20Vote%20Count%20-%203%2C855%2C468%2C%20Size%20-%20594.jpg)
 
 Here is a look at Pennsylvania's mail ballots:
 
