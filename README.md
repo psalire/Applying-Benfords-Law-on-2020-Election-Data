@@ -161,6 +161,12 @@ Jorgensen interestingly shows a non-uniform distribution in the 2nd last digit. 
 
 Plotting this at the state level didn't seem sufficient due to small sample sizes but are still viewable in the other directories.
 
+### Conclusion
+
+With large sample sizes, specifically when aggregating all vote counts of all 4,577 counties that reported data in the US, both Benford's law and the Last Digits test held true. It's only when going down a level into individual states when it got interesting and data started to deviate.
+
+This was my first time writing code that revolved entirely around pandas and I'm very pleased with how powerful and easy it is to use. I'm looking forward to using pandas more in the future.
+
 ## How to use
 
 ### Pre-requisites
