@@ -24,7 +24,7 @@ Benford's law states that the distribution of leading digits of numbers in natur
 
 This can be expressed as the formula:
 
-P(d) = log(1 + 1/d), where d is a digit {1,...,9}
+![P(d) = log(1 + 1/d), where d is a digit {1,...,9}](https://latex.codecogs.com/gif.latex?P%28d%29%3D%5Clog_%7B10%7D%281%20&plus;%20%5Cfrac%7B1%7D%7Bd%7D%29%2C%20d%5Cin%20%7B1%2C...%2C9%7D)
 
 Building on this, the expected distribution of the second leading digit can be found:
 
