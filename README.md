@@ -71,14 +71,14 @@ First, Texas:
 ![Trump TX](1st-Digit-BL-Test/State-Counts-by-county-jpgs/TX%202020%20Election%20Trump%20by%20County%2C%20%20Vote%20Count%20-%205%2C865%2C913%2C%20Size%20-%20254.jpg)
 ![Biden TX](1st-Digit-BL-Test/State-Counts-by-county-jpgs/TX%202020%20Election%20Biden%20by%20County%2C%20%20Vote%20Count%20-%205%2C218%2C631%2C%20Size%20-%20254.jpg)
 
-Texas follows Bendford's law's distribution nicely.
+Texas vote counts for all parties follows Bendford's law's distribution nicely.
 
 Now Pennsylvania, an important swing state -
 
 ![Trump PA](1st-Digit-BL-Test/State-Counts-by-county-jpgs/PA%202020%20Election%20Trump%20by%20County%2C%20%20Vote%20Count%20-%203%2C331%2C957%2C%20Size%20-%2067.jpg)
 ![Biden PA](1st-Digit-BL-Test/State-Counts-by-county-jpgs/PA%202020%20Election%20Biden%20by%20County%2C%20%20Vote%20Count%20-%203%2C383%2C926%2C%20Size%20-%2067.jpg)
 
-Trump's data follows the distribution and Biden's does not. Someone can easily take these images and claim "evidence of Biden's election fraud in Pennsylvania." Despite its deficiencies it would have a chance of going viral due to people's natural confirmation bias.
+Trump's data follows the distribution and Biden's does not. Someone can easily cherry pick these images and claim "evidence of Biden's election fraud in Pennsylvania."
 
 Looking at Iowa, which Trump won with a large margin -
 
@@ -93,6 +93,8 @@ Now California, which Biden won with a large margin and has voted one sidedly de
 ![Trump CA](1st-Digit-BL-Test/State-Counts-by-county-jpgs/CA%202020%20Election%20Trump%20by%20County%2C%20%20Vote%20Count%20-%205%2C368%2C918%2C%20Size%20-%2058.jpg)
 
 Here both parties seemingly have anomalies.
+
+So, breaks from the expected distribution of Benford's law is seen on both sides, which may or may not mean something.
 
 However, this is Benford's law applied to the first leading digit; typically when using Benford's law on election data the second leading is used to eliminate inaccuracies due to significant variations in population sizes. For example, if a state consisted only of counties with populations between 50,000 and 60,000 then naturally Benford's law for the first digit would not be followed.
 
