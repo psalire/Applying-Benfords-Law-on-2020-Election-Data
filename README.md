@@ -1,4 +1,4 @@
-# Applying Benford's Law on 2020 US Election Data
+# Benford's Law with Pandas
 
 ## About
 
