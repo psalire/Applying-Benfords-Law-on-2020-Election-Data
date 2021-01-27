@@ -10,7 +10,7 @@ Benford's law is used reputably in accounting, auditing, and finance as a quick,
 
 The methods used in this repo were inspired by Beber & Scacco's "What the Numbers Say: A Digit-Based Test for Election Fraud" (2012) and the Association of Certified Fraud Examiners's (ACFE) instructive document "Using Benford's Law to Detect Fraud" (2018).
 
-The Python script's plotting of Benford's law and Last Digits test on 2020 voter data saw in a few states deviations that indicate potential anomalies (fraud) affecting both parties. Overall though, this naive and very on the surface application and interpretation of the results either indicates that there is potential fraud in some areas or indicates nothing at all.
+The Python script's plotting of Benford's law and Last Digits test on 2020 voter data saw in a few states deviations that indicate potential anomalies affecting both parties. Overall though, this naive and very on the surface application and interpretation of the results either suggests that there is potential fraud in some areas or indicates nothing at all due to Benford's law's alleged unfitness for election data.
 
 ### Background
 
@@ -78,14 +78,14 @@ Now Pennsylvania, an important swing state -
 ![Trump PA](1st-Digit-BL-Test/State-Counts-by-county-jpgs/PA%202020%20Election%20Trump%20by%20County%2C%20%20Vote%20Count%20-%203%2C331%2C957%2C%20Size%20-%2067.jpg)
 ![Biden PA](1st-Digit-BL-Test/State-Counts-by-county-jpgs/PA%202020%20Election%20Biden%20by%20County%2C%20%20Vote%20Count%20-%203%2C383%2C926%2C%20Size%20-%2067.jpg)
 
-Trump's data follows the distribution and Biden's does not. Someone can easily cherry pick these images and claim "evidence of Biden's election fraud in Pennsylvania."
+Trump's data follows the distribution and Biden's does not. Someone can easily cherry pick these images and claim fraud for one party.
 
-Looking at Iowa, which Trump won with a large margin -
+But looking at Iowa, which Trump won with a large margin -
 
 ![Biden IA](1st-Digit-BL-Test/State-Counts-by-county-jpgs/IA%202020%20Election%20Biden%20by%20County%2C%20%20Vote%20Count%20-%20758%2C352%2C%20Size%20-%2099.jpg)
 ![Trump IA](1st-Digit-BL-Test/State-Counts-by-county-jpgs/IA%202020%20Election%20Trump%20by%20County%2C%20%20Vote%20Count%20-%20897%2C140%2C%20Size%20-%2099.jpg)
 
-This time Biden's data follows the distribution and Trump's does not. Again, someone can easily cherry pick these images and this time claim "evidence of Trump's election fraud in Iowa."
+This time Biden's data follows the distribution and Trump's does not. Again, someone can easily cherry pick these images and this time claim fraud for one party.
 
 Now California, which Biden won with a large margin and has voted one sidedly democrat for decades -
 
