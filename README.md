@@ -73,21 +73,21 @@ First, Texas:
 
 Texas vote counts for all parties follow Bendford's law's expected distribution nicely.
 
-Now Pennsylvania, an important swing state -
+Now Pennsylvania, an important and controversial swing state -
 
 ![Trump PA](1st-Digit-BL-Test/State-Counts-by-county-jpgs/PA%202020%20Election%20Trump%20by%20County%2C%20%20Vote%20Count%20-%203%2C331%2C957%2C%20Size%20-%2067.jpg)
 ![Biden PA](1st-Digit-BL-Test/State-Counts-by-county-jpgs/PA%202020%20Election%20Biden%20by%20County%2C%20%20Vote%20Count%20-%203%2C383%2C926%2C%20Size%20-%2067.jpg)
 
-Trump's data follows the distribution and Biden's does not. Someone can easily cherry pick these images and claim fraud for one party.
+Trump's data follows the distribution and Biden's does not. Here, someone can cherry pick these images and claim fraud in favor of Trump.
 
 But looking at Iowa, which Trump won with a large margin -
 
 ![Biden IA](1st-Digit-BL-Test/State-Counts-by-county-jpgs/IA%202020%20Election%20Biden%20by%20County%2C%20%20Vote%20Count%20-%20758%2C352%2C%20Size%20-%2099.jpg)
 ![Trump IA](1st-Digit-BL-Test/State-Counts-by-county-jpgs/IA%202020%20Election%20Trump%20by%20County%2C%20%20Vote%20Count%20-%20897%2C140%2C%20Size%20-%2099.jpg)
 
-This time Biden's data follows the distribution and Trump's does not. Again, someone can easily cherry pick these images and this time claim fraud for one party.
+This time Biden's data follows the distribution and Trump's does not. Again, someone can cherry pick these images and claim fraud this time in favor of Biden.
 
-Now California, which Biden won with a large margin and has voted one sidedly democrat for decades -
+Now California, which Biden won with a large margin and has voted one sidedly Democrat for decades -
 
 ![Biden CA](1st-Digit-BL-Test/State-Counts-by-county-jpgs/CA%202020%20Election%20Biden%20by%20County%2C%20%20Vote%20Count%20-%2010%2C270%2C110%2C%20Size%20-%2058.jpg)
 ![Trump CA](1st-Digit-BL-Test/State-Counts-by-county-jpgs/CA%202020%20Election%20Trump%20by%20County%2C%20%20Vote%20Count%20-%205%2C368%2C918%2C%20Size%20-%2058.jpg)
